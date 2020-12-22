@@ -1,3 +1,6 @@
+# Dr. Evil I presume...
+*Published Monday, February 10, 2003*
+
 Please remember not to give your password out to anyone! The head of Customer Support has informed us about a new breed of super-criminal that is terrorising our super-highways. Although Daniel didn't use those exact words.
 
 We heard from "Dantvman", who was, understandably, still in a state of shock.

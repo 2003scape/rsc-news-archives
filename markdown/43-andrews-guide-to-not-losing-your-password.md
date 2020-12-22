@@ -1,3 +1,6 @@
+# Andrew's guide to not losing your password
+*Published Friday, July 13, 2001*
+
 An increasing number of people are trying to trick other players into giving away their password. Please use a bit of common sense to avoid getting tricked in this way. Some common tricks to avoid are below:
 
 Do NOT enter your password into ANY website other than runescape.com! If you go somewhere else and see a chat room or survey or cheat site which claims it needs your password then that site is a trick and will steal your pass. Don't be a fool. Be very suspicious of anything or anyone that asks you for your password.

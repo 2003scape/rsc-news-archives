@@ -1,3 +1,6 @@
+# Lots of minor fixes and tweaks
+*Published Tuesday, June 12, 2001*
+
 Just made a quick update to fix and tweak various small problems. This update fixes the following:
 
 *   There are now even more customs officers on karamja

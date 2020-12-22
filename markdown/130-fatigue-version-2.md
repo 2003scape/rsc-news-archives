@@ -1,3 +1,6 @@
+# Fatigue - version 2
+*Published Thursday, November 14, 2002*
+
 ## **RuneScape Wiki:** Due to wiki limitations, this article has an improper name. It should be "Update:Fatigue - version \* 2"
 
 We've worked extremely hard today to update the mining/fishing system with respect to your comments and feedback. The old system was considered rather too much of a change by many, so we've made a new one is more like the original mining. Here is how the new system works.

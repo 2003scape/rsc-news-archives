@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Monday, February 4, 2002*
+
 We are planning on a launching a new optional service called 'RuneScape members' fairly soon. This is in ADDITION to the existing 'RuneScape freeplay' service which we intend to keep running.
 
 Being a member gives lots of great new features and skills. We currently plan to make it $5/month or $45/year, and to accept both credit-cards and money-orders. The prices are in us-dollars, but we will also accept other currencies. The idea is that the revenue from 'RuneScape members' will enable us to add even more improvements to the game and allow us to keep it going for many more years.

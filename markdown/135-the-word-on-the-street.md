@@ -1,3 +1,6 @@
+# The Word On The Street
+*Published Monday, December 2, 2002*
+
 Hi there,
 
 Here at Jagex we've received a lot of feedback about the new mining system. The general consensus is that it's now less tedious, and more strategic. And everyone is pleased that you can finally use beds.

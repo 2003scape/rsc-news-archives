@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Friday, March 1, 2002*
+
 Firstly a very big thank-you to all our members. Your support is very very much appreciated!
 
 We said that the profit from the members would be put back into improving RuneScape, and we're now working hard to do this. During this coming week we aim to get more servers online (to ensure there is enough space for both free users and members).

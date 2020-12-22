@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Monday, June 17, 2002*
+
 We've updated RuneScape and added another two members quests.
 In the first quest a mysterious stranger called Lucien asks you to retrieve an artifact known as the Staff of Armadyl. Speak to him in the 'flying horse' in Ardougne.
 

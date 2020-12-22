@@ -1,3 +1,6 @@
+# Runescape updated
+*Published Tuesday, May 8, 2001*
+
 :*There was also an [update of the same name](https://classic.runescape.wiki/w/Update%3ARunescape%20updated%20\(24%20May%202001\)) on May 24 2001.*
 
 I've just updated runescape to add the following features:

@@ -1,3 +1,6 @@
+# Read if the update doesnt work
+*Published Tuesday, April 15, 2003*
+
 We are aware that a very small number of players were having problems playing RuneScape after the last update.
 
 I have now updated the client, and made some changes which should fix this problem, so if you were having trouble please try again.

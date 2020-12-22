@@ -1,3 +1,6 @@
+# Happy Easter
+*Published Sunday, April 20, 2003*
+
 Happy Easter to all our players!
 
 For a bit of fun, we will be dropping 'Bunny Ears' at random locations at random times throughout the day.

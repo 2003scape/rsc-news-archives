@@ -1,3 +1,6 @@
+# Bug squashing
+*Published Wednesday, July 10, 2002*
+
 Today Runescape update fixes a large number of outstanding bugs in the game.
 
 The following issues have been fixed:

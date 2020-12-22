@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Friday, May 10, 2002*
+
 Both members and free-edition runescape have been updated with new content.
 
 First up the members wilderness has been expanded to include: a new level-56 wilderness area, scorpion ravine, pirate hall, rogues to pickpocket, doors to lockpick, high level wilderness dungeon, shadow-spider monster, fire-giant monster.

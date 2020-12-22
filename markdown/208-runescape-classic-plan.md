@@ -1,3 +1,6 @@
+# RuneScape Classic Plan
+*Published Wednesday, November 25, 2009*
+
 We're now coming to the end of the Classic trial period and it's time to let you know what we’re going to do next with RuneScape Classic. First of all, thanks very much for your response and enthusiasm – it's great to see that many of you still enjoy Classic! We're very glad to see new people playing the game again.
 
 Many have been asking why we don't open some of the servers up to free players. One reason is that it's a great benefit for us to offer to our members in appreciation of their support, but the main reason is that we want to keep Classic's gameplay just as it is. In order to allow an unlimited number of accounts into Classic, we would have to make a lot of the big changes to it that we have made to RS2, and then it wouldn't be Classic any more.

@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Wednesday, April 10, 2002*
+
 We've made a few fixes to RuneScape today. The demon in the family crest quest was too deep into the wilderness, which was causing a major pking problem and wasn't too popular, so we've now moved it the wilderness dungeon at a much lower wilderness.
 
 We've fixed a bug with magic spells which people were abusing to rapidly fire multiple bolts and kill other players unfairly.

@@ -1,3 +1,6 @@
+# Newsletter 2
+*Published Wednesday, February 7, 2001*
+
 RuneScape Newsletter - Issue \* 2
 
 Welcome to the second RuneScape newsletter. Lots has happened since the last newsletter, and we've had a lot of good suggestions for the future. Read on to find out what's planned

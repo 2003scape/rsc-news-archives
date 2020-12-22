@@ -1,3 +1,6 @@
+# A preview is sneaked
+*Published Friday, October 18, 2002*
+
 Hi there - last week I told you about the current state of play with the 3D graphics update. For some the excitement was just too much to bear, so Andrew decided to do the decent thing and release some screen shots...
 <a class="rsc-image rsc-image-thumb" href="/images/RS2 beta cam1.jpg"><img src="/images/RS2 beta cam1.jpg"></a>
 

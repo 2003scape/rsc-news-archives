@@ -1,3 +1,6 @@
+# Mage Arena
+*Published Monday, September 22, 2003*
+
 The clash of powerful magics... the thrill of utterly defeating a foe with the Flames of Zamorak... the agony of falling to a superior mage whose powers surpass your own...
 
 All this and more can now be experienced by yourself in our latest addition to the Wilderness - The Mage Arena!

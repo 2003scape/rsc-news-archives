@@ -1,3 +1,6 @@
+# New Quest Coming!
+*Published Friday, January 24, 2003*
+
 Attention all quest-hungry adventurers!
 
 Some of you may have noticed the lack of updates in the last few weeks... to the untrained eye it could appear that the Jagex team is spending all its time updating the website.

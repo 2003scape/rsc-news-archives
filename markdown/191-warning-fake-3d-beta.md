@@ -1,3 +1,6 @@
+# WARNING: Fake 3d beta
+*Published Tuesday, June 24, 2003*
+
 WARNING: Beware of anybody claiming the RuneScape 3d beta is available. It is NOT yet available.
 
 We are aware of a fake program, which pretends to be our 3d update, but actually steals your password.

@@ -1,3 +1,6 @@
+# The biggest update ever...
+*Published Thursday, February 13, 2003*
+
 We just wanted to let you know how things are going with the big 3-D update.
 
 Andrew had originally planned to just update the graphics. This is no small task, as it involves remodelling every single image,and creating a new system to run it on. But the big man is not someone who does things in half-measures...

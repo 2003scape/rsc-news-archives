@@ -1,3 +1,6 @@
+# Gnomeball
+*Published Tuesday, January 28, 2003*
+
 Sporty types will be pleased to know that they can now take part in the world-famous game of gnomeball. Down at the gnome stronghold, those cheeky little gnomes have cleared a piece of land about the size of a football pitch, and err, decided to play football on it. Well, almost.
 
 Firstly, when I say football, I am not referring to the game where people try to propel a spherical object with their foot- hence football.

@@ -1,3 +1,6 @@
+# More runescape bugs fixed
+*Published Saturday, June 23, 2001*
+
 I have now fixed the following bugs with runescape:
 
 *   improved password box to allow up to 20 characters

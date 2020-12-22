@@ -1,3 +1,6 @@
+# Extended Quest continues!
+*Published Monday, February 24, 2003*
+
 Anyone who has completed the Biohazard quest will know that King Lathas sent a team of scouts to find a way through The Underground Pass. This will allow a band of adventurers to go in search of the evil King Tyras, Lathas' brother, who has forged an alliance with the Dark Lord.
 
 You might also like to know that we've just heard back from an advanced party of scouts, who keep the King informed of their progress.

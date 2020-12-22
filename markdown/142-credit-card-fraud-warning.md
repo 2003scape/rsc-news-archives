@@ -1,3 +1,6 @@
+# Credit card fraud warning
+*Published Tuesday, January 21, 2003*
+
 Don't accept membership from other players - doing so is dangerous!
 
 We would like to remind everyone that you must NOT allow another player to pay for your runescape account membership.

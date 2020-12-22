@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Monday, March 25, 2002*
+
 New members map area showing west of Kandarin. You can see this new area and other recent additions on our updated: World Map.
 
 New fletching skill is online! The long anticipated fletching skill is now available to members. For more information about fletching take a look in the new-section in our online manual.

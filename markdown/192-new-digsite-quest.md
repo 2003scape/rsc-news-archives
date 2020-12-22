@@ -1,3 +1,6 @@
+# New Digsite Quest!
+*Published Wednesday, July 9, 2003*
+
 Some say there are only two religions in the land of Runescape; Saradominist, or 'the good', and Zamorakian ('the bad').
 But there have been many other gods at work on the land...
 

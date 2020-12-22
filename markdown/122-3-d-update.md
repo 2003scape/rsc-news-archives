@@ -1,3 +1,6 @@
+# 3-D Update
+*Published Wednesday, October 9, 2002*
+
 Just wanted to let you know some exclusive behind-the-scenes news from Jagex!
 
 The Runescape team is still busy working on the 3D update - a fairly massive undertaking as you might imagine! The 3D characters are now pretty much complete, with Andrew now turning his attention to the landscape design. The use of polygons allows for far more attention to detail, as well as giving a more enhanced sense of proportion.

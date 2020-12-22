@@ -1,3 +1,6 @@
+# Trawler mini game
+*Published Monday, July 28, 2003*
+
 Murphy the trawler fisherman has recently docked in at Port Khazard. He's happy to take any keen fishermen on a fishing trip with him.
 
 Be warned though, his boat is not in the best of shapes for the high seas, and you'll be spending a lot of time running around fixing leaks.

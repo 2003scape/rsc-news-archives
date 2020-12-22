@@ -1,3 +1,6 @@
+# Runescape2 Servers
+*Published Monday, December 1, 2003*
+
 We have added another three worlds to the RuneScape 2 beta to add more capacity for downloading and playing RS2.
 
 We were also experiencing some bandwidth problems with our servers located at San Jose, but these have now been resolved.

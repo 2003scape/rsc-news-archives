@@ -1,3 +1,6 @@
+# More RuneScape updates
+*Published Tuesday, February 13, 2001*
+
 Firstly I have fixed the error which enabled you to make double doors vanish by lighting a fire next to them. So hopefully no more trapped people.
 
 I've also modified the trading window, so that you can point at an object someone is offering you to find out the objects name and description. This will help make trading fairer and safer.

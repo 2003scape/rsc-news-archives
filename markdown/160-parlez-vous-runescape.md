@@ -1,3 +1,6 @@
+# Parlez-vous Runescape
+*Published Friday, February 7, 2003*
+
 :*Due to wiki limitations, the title of this page is incorrect, and should read "Parlez-vous Runescape?"*
 
 To all those who were surprised with yesterday's news about the educational benefits of Runescape- you weren't alone! Everyone at Jagex was also intrigued by this great new justification for playing computer games...

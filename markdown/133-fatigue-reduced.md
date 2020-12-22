@@ -1,3 +1,6 @@
+# Fatigue reduced
+*Published Monday, November 25, 2002*
+
 Due to popular demand, it is now possible to mine and fish for longer without getting tired!
 
 There are now two sort of rocks that you can mine:

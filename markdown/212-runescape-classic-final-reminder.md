@@ -1,3 +1,6 @@
+# RuneScape Classic: Final Reminder
+*Published Thursday, September 29, 2011*
+
 Now is your final chance to gain access to RuneScape Classic for your account as, after the 29th of September 2011, new sign-ups will no longer be available and will not be re-opened.
 
 RuneScape Classic is the original version of the game, which ran prior to the release of the RuneScape that we know and love today. It contains 50 iconic quests, has bags of retro charm, and is a great insight into the history of the world’s most popular free to play MMORPG.

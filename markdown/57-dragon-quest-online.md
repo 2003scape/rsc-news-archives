@@ -1,3 +1,6 @@
+# Dragon quest online!
+*Published Sunday, September 23, 2001*
+
 Think you've got what it takes to slay a dragon? If so try our new quest! This quest has been designed with the more experienced runescape players in mind so it's fairly tricky.
 
 <a class="rsc-image rsc-image-thumb" href="/images/Dragon1.jpg"><img src="/images/Dragon1.jpg" align="right"></a>

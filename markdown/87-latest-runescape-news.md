@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Tuesday, March 26, 2002*
+
 We (correctly) anticipated that nearly everyone would want to try the new flethcing<sup>sic</sup> skill at once and that this would cause a rare-tree shortage! Therefore for just one day we decided to make these trees not turn into stumps like normal.
 
 Now everyone has had a chance to try the new skill this has been put back to normal. To compensate the amount of xp you get from woodcutting has been increased.

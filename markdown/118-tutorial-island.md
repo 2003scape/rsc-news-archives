@@ -1,3 +1,6 @@
+# Tutorial island
+*Published Tuesday, September 24, 2002*
+
 Tutorial Island
 
 First-time players will now start their adventures on tutorial island, where the good people of RuneScape are busy preparing people for the challenges that await them.

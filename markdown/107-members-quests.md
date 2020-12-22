@@ -1,3 +1,6 @@
+# Members' quests
+*Published Tuesday, July 23, 2002*
+
 We've updated RuneScape with 3 new members quests!
 
 King Arthur is sending out his knights on a quest for the famous holy grail. If you are a knight of the round table go to king arthur for further orders.

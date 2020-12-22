@@ -1,3 +1,6 @@
+# Buying/selling reminder
+*Published Tuesday, March 18, 2003*
+
 We would like to remind our users that buying/selling RuneScape accounts is not allowed, and that buying/selling RuneScape items for real money outside of the game is also not allowed.
 
 We did once consider selling runescape money and items in an online shop on our own site for real cash. However we decided to sacrifice that extra revenue for the good of the game, since we felt it would devalue hard-working players achievements if another player could then just buy their way past them. We don't want rich players to be able to simply buy their way to the top. This is clearly not how the game is meant to be played.

@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Wednesday, February 27, 2002*
+
 RuneScape members is online!!!
 
 For lots more information click here

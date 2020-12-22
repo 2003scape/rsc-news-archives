@@ -1,3 +1,6 @@
+# Sleeping bags and pickaxes
+*Published Tuesday, May 27, 2003*
+
 Today's update adds the much requested sleeping bags to RuneScape! These allow you to quickly recover your fatigue without having to walk all the way to a bed. Now you can finally pull those all-nighter fishing sessions you've been dreaming of.
 
 As well as adding a touch of realism to the game, the fatigue system is also designed to stop people cheating using macro software. To wake-up from your slumber you will therefore have to answer a very simple challenge which should be easy to answer, but hard for cheats to automate.

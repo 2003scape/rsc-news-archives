@@ -1,3 +1,6 @@
+# New Quest Online - Part Three
+*Published Monday, March 3, 2003*
+
 Today sees the release of the third part of our ongoing Members' Quest.
 
 The War against the Dark Lord continues. In order to track down the evil King Tyras, you must first make your way through

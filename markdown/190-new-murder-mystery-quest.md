@@ -1,3 +1,6 @@
+# New Murder Mystery Quest!
+*Published Monday, June 9, 2003*
+
 ''"Sarge, come quick!"
 
 ''"What is it lad?"

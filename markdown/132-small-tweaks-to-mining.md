@@ -1,3 +1,6 @@
+# Small tweaks to mining
+*Published Friday, November 15, 2002*
+
 Today we've made the following small changes to mining:
 
 *   You can now mine twice as much silver before getting tired. This is because it was pointed out that it shouldn't really be harder to get silver than gold. This actually now means silver is easier to get than it has ever been in the past

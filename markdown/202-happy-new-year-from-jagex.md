@@ -1,3 +1,6 @@
+# Happy new year from Jagex
+*Published Friday, January 2, 2004*
+
 Well I've just got back from my Christmas break, so now I'm back to updating RuneScape!
 
 Even though I was away visiting my family for 1 week, I managed to get quite a few new things programmed on my laptop, so there should be a nice update to rs2 early next week.

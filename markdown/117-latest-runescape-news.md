@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Thursday, September 19, 2002*
+
 We're still working on the big graphical update. It sure is a lot of work! It's still a way off, so meanwhile we're going to show occasional previews of how things are progressing.
 
 As well as improving all the graphics, we're also reworking all the animation to use a lot more frames so everything moves more smoothly. Here is a preview of how some of the monsters/people look using our new animation system.

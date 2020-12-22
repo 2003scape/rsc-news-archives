@@ -1,3 +1,6 @@
+# Why should you upgrade to members version
+*Published Thursday, February 21, 2002*
+
 ## No-risk!
 
 Upgrading your character to member status costs just $5/month or $45 for an entire year.

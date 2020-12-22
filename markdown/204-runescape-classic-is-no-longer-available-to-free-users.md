@@ -1,3 +1,6 @@
+# RuneScape Classic is no longer available to free users
+*Published Wednesday, August 3, 2005*
+
 We had planned on keeping RS-Classic around as a fun little nostalgia trip for people who wanted to see what the game was once like. However that idea is currently being spoiled by some irresponsible players who just see it as good place to cause trouble. We're not happy with this, so we are taking steps to clean it up so our loyal players can enjoy it properly. This is the first step in achieving that. You won't see it improve massively overnight, but this makes it much easier for us to kick out the troublemakers and make sure they actually stay out, rather than coming back. So in the long run there should be a big improvement.
 
 If you wish to play for free we recommend you play our main RuneScape game instead. We would like to reassure our users that we have absolutely NO intention whatsoever of removing the free version of our main game.

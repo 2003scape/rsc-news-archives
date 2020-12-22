@@ -1,3 +1,6 @@
+# This weeks update
+*Published Saturday, March 17, 2001*
+
 I've just uploaded this weeks update. I was really hoping to get a lot of interesting new features added this week, but due to a worrying amount of attempted cheating and password stealing I've had to spent most my time programming the system to detect and stop that instead.The players who continually try to break the rules are merely depriving themselves and everyone else of more interesting improvements. This week's updates are:
 
 *   Added a button to email forgotten/stolen passwords back to their owner

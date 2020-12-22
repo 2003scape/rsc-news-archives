@@ -1,3 +1,6 @@
+# Beta testing server
+*Published Friday, June 14, 2002*
+
 I've modified RuneScape to use a database back-end for all the logs, save-games, etc... This is part of the new customer support system we are working on, and makes it a lot easier for us to sort out problems.
 Obviously to make this change I've had to alter a LOT of code. So I'm running a test server based on the new core before switching the live-version of RuneScape across.
 

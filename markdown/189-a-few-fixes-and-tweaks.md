@@ -1,3 +1,6 @@
+# A few fixes and tweaks
+*Published Thursday, May 29, 2003*
+
 Todays update fixes a few bugs.
 
 *   Seaweed now works properly again.

@@ -1,3 +1,6 @@
+# Lots of small improvements
+*Published Thursday, May 10, 2001*
+
 I've been busy making lots of minor alterations and bugfixes to the game. The main changes are:
 
 *   My-friends webpage now works properly, and also shows which server they are on

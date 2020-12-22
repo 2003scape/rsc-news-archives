@@ -1,3 +1,6 @@
+# New website online!
+*Published Wednesday, December 11, 2002*
+
 **New website online!**
 After many weeks of hard work our new website is finally online - think of it as an early Christmas Present! We hope that you will find the site easier to use and to find your way around.
 

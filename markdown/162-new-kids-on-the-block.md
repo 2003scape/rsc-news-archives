@@ -1,3 +1,6 @@
+# New kids on the block
+*Published Wednesday, February 12, 2003*
+
 As part of our ongoing commitment to improving customer support, Jagex is pleased to welcome two new recruits to our offices. Mark Ogilvie and Andrew "Stretch" Birmingham are now permanent additions to the Jagex team.
 
 Andrew describes himself as a tech-head, whose first computer was the Atari 800. He's a big fan of the Crow, and likes to wear a long trench-coat in order to make people aware of this.

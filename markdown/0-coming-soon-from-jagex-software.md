@@ -1,3 +1,6 @@
+# Coming Soon from Jagex Software
+*Published Friday, November 10, 2000*
+
 Coming soon from Jagex Software! Runescape, our massive multiplayer adventure. Trade and communicate with other players. Learn skills to earn money, or if you're brave attempt to find riches in the dungeons. Your charactor<sup>sic</sup> will continue to evolve and improve the more you play, with quests to complete for extra rewards. Choose good or evil the choice is entirely yours!
 
 Features

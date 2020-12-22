@@ -1,3 +1,6 @@
+# RuneScape Classic: Farewell
+*Published Wednesday, May 23, 2018*
+
 RuneScape Classic was the first version of RuneScape, released in 2001.
 
 For many years we've left all of the content from the original game available to play. Whilst it's seemingly been happily plodding along since then, it is with great sadness that we have taken the difficult decision to say goodbye to RuneScape Classic, which we will be winding down over the next 3 months.

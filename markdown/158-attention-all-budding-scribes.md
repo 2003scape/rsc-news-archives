@@ -1,3 +1,6 @@
+# Attention all budding scribes!
+*Published Tuesday, February 4, 2003*
+
 To all those who have been waiting patiently for the Library of Varrock, it will be opening soon! Regulars to Misthalin's fair city will have been marvelling at the slow but steady construction of this great new building. And for those who haven't found it yet, it's right behind that tree, next to the man who stands there sometimes.
 
 And just as the building is close to completion, we find out- and you're never going to believe this- that's right, we've still got loads of empty shelf space.

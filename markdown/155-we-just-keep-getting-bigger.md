@@ -1,3 +1,6 @@
+# We Just Keep Getting Bigger!
+*Published Friday, January 31, 2003*
+
 If there was an eerie quietness to Runescape this morning, it's because Jagex has just moved offices! Up and till this point Andrew had being squeezing more and more personnel into the same cramped room, but even he relented when the place started to look like a Seers' Village drop party.
 
 So rather than violate any more human rights conventions, we thought we'd better just move office. As of today, Jagex is officially moving up in the world... by about 12 feet in fact, to the place on the first floor.

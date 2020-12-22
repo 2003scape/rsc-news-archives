@@ -1,3 +1,6 @@
+# Runescape romance turns real
+*Published Wednesday, January 29, 2003*
+
 Yet more wedding bells! So Runescape rings DO have special properties.
 "I started playing 8 months ago...The last thing I was looking for was another relationship, especially via an internet game. But find one I did, or it found me..."
 

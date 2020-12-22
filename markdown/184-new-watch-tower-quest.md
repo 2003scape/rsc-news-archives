@@ -1,3 +1,6 @@
+# New - Watch Tower Quest!
+*Published Wednesday, May 7, 2003*
+
 The young wizard on duty in the Yanille Watch Tower scribbled another tally onto the newly created 'ogre activity report'. It had been a long shift, and the ogre sightings were getting more and more frequent. For a second, the wizard allowed his eyelids to drop...
 
 "They're gone! Who's on watch?!"

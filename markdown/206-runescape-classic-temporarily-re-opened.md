@@ -1,3 +1,6 @@
+# RuneScape Classic Temporarily Re-opened
+*Published Wednesday, November 11, 2009*
+
 Following on from my recent dev blog about our ideas for RuneScape Classic, we are delighted to offer everyone the opportunity to try Classic for themselves! For two weeks starting from today, Classic is open for new sign-ups from RuneScape members only.
 
 If you access Classic during this two-week period (using your normal username and password), you will continue to be able to do so after the two weeks are over. If, however, you do not, you will miss out on the chance to do so, so give it a try.

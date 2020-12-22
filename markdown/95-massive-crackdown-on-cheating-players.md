@@ -1,3 +1,6 @@
+# Massive crackdown on cheating players.
+*Published Wednesday, May 29, 2002*
+
 As part of our promised commitment to stamping down and stopping cheats in RuneScape we have developed a new system to automatically detect people using macro/bot software to gain stats unfairly.
 
 It clearly says in our rules that using software to automatically play the game for you and raise your stats for you is cheating! This will not be tolerated. It is just not fair on the players who play the game honestly and get their levels fairly.

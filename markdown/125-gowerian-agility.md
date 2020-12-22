@@ -1,3 +1,6 @@
+# Gowerian Agility
+*Published Friday, October 25, 2002*
+
 Hi there,
 
 So what a week it has been. Two new quests, dragon bones, improved monster AI and a magic guild to boot! By now I am sure many of you will be busy trying to find a cure for the plague, or mixing potions with special properties. Just make sure you save some time for Runescape.

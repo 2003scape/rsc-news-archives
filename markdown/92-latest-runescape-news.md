@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Tuesday, April 30, 2002*
+
 New members update online! Many RPGs have a thieving/rogue skill and this is something which until now has been missing from RuneScape.
 
 We've now added this popular skill to the members version and it includes abilities such as pick-pocketing, picking locks, disarming traps, and stealing from market stalls. For more information about the new thieiving skill please refer to the online manual.

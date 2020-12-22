@@ -1,3 +1,6 @@
+# RuneScape 2 Beta is Here!
+*Published Monday, December 1, 2003*
+
 We are very pleased to announce that the RuneScape2 Beta has launched!
 
 For the moment, only RuneScape Members can access this exclusive beta by clicking the link at the top of our front page.

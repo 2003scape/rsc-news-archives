@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Wednesday, January 23, 2002*
+
 We are planning on launching as soon as our new customer support system is ready, I'm \* hoping\* that will be early next week
 
 The following are all already fully programmed and ready to roll

@@ -1,3 +1,6 @@
+# The Mod-Noob
+*Published Friday, November 1, 2002*
+
 Hi there,
 
 So what's been going on behind the scenes at the Jagex offices? Well, after last week's big quest update, I thought I'd go on line to see how everyone was getting on with the Biohazard Quest.

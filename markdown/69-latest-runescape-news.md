@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Wednesday, December 5, 2001*
+
 The level requirement poll has finished. Since the majority of the players favoured this change it will be going ahead.
 
 I am fully aware that some smiths and miners feel this will disadvantage them. However remember even if you can't use the items in combat you can still make money from buying and selling them.

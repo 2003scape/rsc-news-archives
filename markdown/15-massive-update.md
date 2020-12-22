@@ -1,3 +1,6 @@
+# Massive update!
+*Published Friday, April 6, 2001*
+
 Asgarnia is online and includes:
 
 *   Ice Mountain

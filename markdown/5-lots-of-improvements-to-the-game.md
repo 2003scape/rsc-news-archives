@@ -1,3 +1,6 @@
+# Lots of improvements to the game
+*Published Saturday, January 27, 2001*
+
 Ranged combat - You now gain experience for each successful hit, so it's easier to advance a level. Arrows also now fire 25% faster, and I've fixed the cheat/bug which some people were using to shoot super rapidly.
 
 Magic - 4 new spells have been added which are: Fear, Wind-bolt, Rock-skin, and Elemental-bolt. The bolt spells have also been made much more powerful, and they are no longer dependant on your ranged-combat skill. This means each type of bolt now does a fixed maximum-damage, and to shoot more powerful bolts you need to use high level spells. Finally the staffs have been improved such that if you are wielding a fire-staff, water-staff, air-staff or earth-staff it acts as unlimited runes of that type!

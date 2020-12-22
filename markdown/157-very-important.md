@@ -1,3 +1,6 @@
+# Very Important
+*Published Monday, February 3, 2003*
+
 With all the talk of romance in Runescape recently, we'd like to remind players about the importance of playing the game safely.You should NOT give out your personal details to other players online- even if they claim to be Jagex staff! This includes your name, address, phone number and email address.
 
 Unfortunately we have to be aware that internet games are played by certain dangerous individuals, who may lie about their age, gender, occupation etc.

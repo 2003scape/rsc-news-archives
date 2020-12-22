@@ -1,3 +1,6 @@
+# Bestiary Expands!
+*Published Wednesday, April 23, 2003*
+
 Reldo the Librarian has recently been swamped by his work - quite literally, as a tall and badly balanced pile of books he was cataloguing fell to the powers of gravity and trapped him under a pile of assorted Varrockian literature.
 
 Some might say that this was no accident after his previous defiance of the gods in releasing the bestiary scrolls, but Reldo is nothing if not dedicated to the life of the Librarian, and simply cannot rest until every single article in the library is catalogued and sorted.

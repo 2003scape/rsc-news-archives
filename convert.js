@@ -12,6 +12,7 @@ const DATE_REGEXP = /\{\{\s?(?:Jag)?Update\|\s?date\s?=\s?(.+)\}\}/i;
 const IMAGE_REGEXP = /\[\[File\:(.+?)(:?\|.+?)?]\]/i;
 const CATEGORY_REGEXP = /\[\[category:(.+?)\]\]/gi;
 const LINK_REGEXP = /\[\[(.+?)\|(.+?)\]\]/i;
+const EXT_LINK_REGEXP = /[^\[]\[http\:(.+?) (.+?)\]/i;
 
 const CATEGORY_IDS = {
     GAME_UPDATES: 0,
@@ -40,6 +41,15 @@ const directory = process.argv[2] || './wikitext';
 const output = process.argv[3] || './markdown';
 
 const wikiFiles = fs.readdirSync(directory);
+
+function formatDate(date) {
+    return date.toLocaleString('default', {
+        weekday: 'long',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+    });
+}
 
 async function getWikiImageURL(fileName) {
     const res = await fetch(
@@ -158,6 +168,24 @@ class Page {
         );
     }
 
+    formatExtLinks() {
+        while (true) {
+            const linkMatches = this.markdownSource.match(EXT_LINK_REGEXP);
+
+            if (linkMatches) {
+                const url = linkMatches[1];
+                const text = linkMatches[2];
+
+                this.markdownSource = this.markdownSource.replace(
+                    linkMatches[0],
+                    ` [${text}](http://http:${url})`
+                );
+            } else {
+                break;
+            }
+        }
+    }
+
     formatBreaks() {
         this.markdownSource = this.markdownSource.replace(
             /\<br\s?\/?>/gi,
@@ -203,6 +231,7 @@ class Page {
         this.removeTitles();
         this.formatBreaks();
         this.formatLinks();
+        this.formatExtLinks();
         this.formatLists();
         this.formatHeaders();
         this.convertTextStyles();
@@ -257,7 +286,9 @@ markdownPages
 
         fs.writeFileSync(
             `${output}/${index}-${slug(page.name)}.md`,
-            page.markdownSource
+            (ADD_HEADER
+                ? `# ${page.name}\n*Published ${formatDate(page.date)}*\n\n`
+                : '') + page.markdownSource
         );
     });
 

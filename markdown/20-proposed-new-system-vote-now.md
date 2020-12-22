@@ -1,3 +1,6 @@
+# Proposed new system - vote now!
+*Published Thursday, May 3, 2001*
+
 It seems to me that the current player combat system isn't ideal. The fact that the vast majority of players have opted to be 'non-playerkiller' seems to confirm this. Therefore I'm considering changing to a new system which more people should enjoy.
 With the new system different areas of the map would be allocated as combat or non-combat zones. In the current map area (including all the major cities and mining sites) no fighting would be allowed. To cater for players who want to fight each other I would instead add a huge new area around the edge of the map called 'The Wilderness', where player combat is always allowed.
 

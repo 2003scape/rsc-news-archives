@@ -1,3 +1,6 @@
+# Christmas Drop
+*Published Monday, December 22, 2003*
+
 This is just a quick note to say that there aren't going to be any RuneScape items dropped at christmas. I really don't like having to say this, but I can't see any sensible alternative.
 
 This is because the last few drops actually caused a lot of upset, and resulted in a \* huge\* number of complaints from players who didn't manage to get an item (or didn't get as many as their mates). Many players seemed to get really upset about the drop which is of course the exact opposite of the intended effect.

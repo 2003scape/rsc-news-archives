@@ -1,3 +1,6 @@
+# Halloween Drop
+*Published Friday, October 31, 2003*
+
 Hi everyone
 
 I hope you're all enjoying Halloween. For a bit of fun we are dropping 'Scythes' at random locations at random times through the day.

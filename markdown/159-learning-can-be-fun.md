@@ -1,3 +1,6 @@
+# Learning can be fun...
+*Published Thursday, February 6, 2003*
+
 ...no really, it can! OK look, bear with me on this. It seems that Runescape really does have a positive educational value for its players. But don't start cancelling your subscriptions! We heard from Madamemerlin- great name by the way. She found that she is now more skilled in the ancient (and almost forgotten) art of academia.
 
 "I used to do the crossword from the paper everyday. Often when there was a clue I knew the answer due to being on Runescape so much."

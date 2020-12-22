@@ -1,3 +1,6 @@
+# Wedding bells at Jagex!
+*Published Thursday, January 23, 2003*
+
 Simon Brace, Jagex's most eligible batchelor is no longer eligible. That's right, someone's actually agreed to marry him! Runescape players will know our husband to be as "modsimon". The scourge of hackers everywhere, Simon frequently appears on-line, valiantly fighting customer support related crime.
 
 A certain girl by the name of Becky is the lucky lady in question, and Simon assures us that her decision was not made under duress. As the man himself says:

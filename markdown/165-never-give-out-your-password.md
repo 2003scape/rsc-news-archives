@@ -1,3 +1,6 @@
+# Never give out your password!
+*Published Monday, February 17, 2003*
+
 They say that any system is only as good as the people who use it.
 
 This applies to capitalism, communism, and indeed the Runescape Customer Support service.

@@ -1,3 +1,6 @@
+# New windows client
+*Published Wednesday, September 12, 2001*
+
 If you have been having problems with the downloadable windows client not working, but can play online just fine, then please try this updated version.
 
 Download

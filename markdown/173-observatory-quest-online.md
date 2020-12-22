@@ -1,3 +1,6 @@
+# Observatory Quest online!
+*Published Monday, March 17, 2003*
+
 A new quest is now online!
 
 Professor Gronigen has had trouble with some neighbouring goblins, who have managed to break his telescope. Idiots.

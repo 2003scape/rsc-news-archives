@@ -1,3 +1,6 @@
+# Update on RuneScape development progress
+*Published Tuesday, June 11, 2002*
+
 A lot of the originally planned aspects of RuneScape are now complete, so you might well be wondering what we are now working on, and how we intend to keep improving the game, other than just adding more quests.
 
 The really good news is that we have lots more planned, and due to the success of RuneScape members we have been able to put together a larger development/support team, (we now have 11 full-time staff), which means we are finally able to do some of the really big RuneScape updates that we've also wanted to do, but previously weren't possible when just Paul and myself were working on the game.

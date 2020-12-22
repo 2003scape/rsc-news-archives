@@ -1,3 +1,6 @@
+# Report Abuse
+*Published Tuesday, January 28, 2003*
+
 Please note that that the report abuse button is for serious abuse only. Before you contact customer support, please try to make the distinction between malicious insults and friendly banter.
 
 So please do not report people just for the sake of getting them into trouble- we're not trying to create a police state here!

@@ -1,3 +1,6 @@
+# New Throwing Weapons!
+*Published Monday, April 14, 2003*
+
 New **members only** weapons are AVAILABLE NOW!
 
 Members will now be able to smith Throwing knives for themselves, or find Spears dropped by various enemies.

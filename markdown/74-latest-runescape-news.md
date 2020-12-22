@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Tuesday, January 29, 2002*
+
 Dropped item change reversed. Whilst it wasn't intended that dropped items didn't become visible to other players for 1 minute, it seems a lot of people considered it more of a feature than a bug. So this 'feature' has been put back into the game.
 
 Note however that relying on this and dropping your valuable items on the ground still isn't a good idea. If you lose your internet connection for a minute whilst your item is on the ground then someone else is likely to take your item, and you will lose it.

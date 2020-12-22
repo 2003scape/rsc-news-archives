@@ -1,3 +1,6 @@
+# Updates galore!
+*Published Wednesday, October 23, 2002*
+
 Biohazard (Members' Quest): This is the second part of our large ongoing quest. Elena has been rescued, but now she needs your help to find a cure for a plague that could kill hundreds!
 
 Jungle Potion (Members' Quest) Trufitus Shakaya requires that you collect five special jungle herbs for a potion so that he can commune with his gods.

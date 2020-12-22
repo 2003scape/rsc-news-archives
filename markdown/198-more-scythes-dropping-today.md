@@ -1,3 +1,6 @@
+# More Scythes dropping today
+*Published Sunday, November 2, 2003*
+
 With respect to the Halloween drop. Unfortunately it seems a lot of people were upset they didn't manage to get a Scythe.
 
 In particular the fact that we all live in England means unfortunately people in Western US are asleep whilst we are in the office, and able to login to the game to drop items.

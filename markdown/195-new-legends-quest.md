@@ -1,3 +1,6 @@
+# New - Legends Quest!
+*Published Wednesday, August 20, 2003*
+
 Grand Vizier Radimus Erkle wishes it to be known that a new Guild now exists for the truly Legendary Citizens of RuneScape!
 
 Anyone who wishes to access this Guild must accept the challenge of a Quest to map the southern end of Karamja, a dense and forboding area called the Kharazi Jungle.

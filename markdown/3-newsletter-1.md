@@ -1,3 +1,6 @@
+# Newsletter 1
+*Published Sunday, January 21, 2001*
+
 RuneScape Newsletter - Issue \* 1
 
 Welcome to the first ever RuneScape newsletter.

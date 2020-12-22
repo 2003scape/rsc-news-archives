@@ -1,3 +1,6 @@
+# New Members Quest Online
+*Published Monday, July 28, 2003*
+
 Our new members quest Gertrude's Cat is now online.
 
 Gertrude's cat has been missing for some time now - for her piece of mind her prized pet must be rescued.

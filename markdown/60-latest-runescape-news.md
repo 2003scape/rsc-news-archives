@@ -1,3 +1,6 @@
+# Latest RuneScape News
+*Published Wednesday, November 14, 2001*
+
 I have decided to remove all the non-essential parts of this website such as the message boards. I have 3 main reasons for doing this:
 
 1.  This saves a lot of server resources and allows me to increase the capacity of the main RuneScape game itself, which is after all the most important part of the website.

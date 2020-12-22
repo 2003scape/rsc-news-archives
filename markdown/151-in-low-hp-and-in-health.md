@@ -1,3 +1,6 @@
+# In low HP, and in health
+*Published Wednesday, January 29, 2003*
+
 It had to happen eventually. When 200,000 people interact online, it can only be a matter of time before someone pops the question...
 
 We heard from PugXSi, a veteran of Runescape who is currently 4th overall with 1473 total stats. At 99 in magic and 96 in firemaking, there was still one stat that seemed to be eluding him: romance. Then Runescape "gave me something I didn't think possible- eternal happiness with a fantastic woman."

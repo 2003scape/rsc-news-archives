@@ -1,3 +1,6 @@
+# A well deserved rest
+*Published Friday, November 15, 2002*
+
 Hi there,
 
 To those of you who were wondering what happened to last week's newsletter, the answer is, it didn't! But some things in life are worth waiting for.
