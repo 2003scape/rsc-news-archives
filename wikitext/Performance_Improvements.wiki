@@ -1,0 +1,8 @@
+{{update|date = 24 March 2003}}
+
+'''Performance Improvements'''<br>
+Today we are making some optimisations{{sic}} to the RuneScape servers to make the game faster for everyone. This will mean some short disruptions in the game, for which we apologise{{sic}} in advance.
+
+Thanks for bearing with us, the improvement will be worth it.
+[[Category:Technical updates]]
+[[Category:Updates]]

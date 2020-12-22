@@ -1,0 +1,7 @@
+{{Update|date = 24 June 2001}}
+
+The world map page now shows where all the quests start. It also shows the locations of altars where you can recharge your prayer points, and the new tannery shop.
+
+[[Category:Updates|{{PAGENAME}}]]
+[[Category:Maps]]
+[[Category:WorldMaps]]

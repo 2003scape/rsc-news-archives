@@ -1,0 +1,11 @@
+{{Update|date = 12 June 2002}}
+
+As promised here is a preview of some of the new 3d models which will be used when we update the RuneScape graphics. This is just a small sample of the total set of models we have, and as you can see as well as converting all the old graphics we are also introducing lots of new monsters at the same time. 
+[[File:12 June beta image1.gif|centre|thumb|285x285px]] 
+
+We've developed some very good 3d model compression technology, which means that even with all the extra monsters RuneScape should load *faster* than it does at the moment once we do the update. 
+[[File:12 June beta image2.gif|centre|thumb|220x220px]] 
+
+There's still a lot of work to be done to get an update of this size online, so it's probably at least two months away, but we'll keep you informed on how it is progressing.
+
+[[Category:Updates|{{PAGENAME}}]]

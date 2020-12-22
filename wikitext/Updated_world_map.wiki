@@ -1,0 +1,9 @@
+:''There was also an [[Update:Updated world map (24 June 2001)|update of the same name]] on [[24 June]] [[2001]].''
+
+{{Update|date = 12 June 2001}}
+
+I've updated the world-map. It now shows the location of the jewellery shop, gem shop, crafting shop, armour conversion shop, fishing shop, and the places where you can catch fish.
+
+[[Category:Updates|{{PAGENAME}}]]
+[[Category:Maps]]
+[[Category:WorldMaps]]

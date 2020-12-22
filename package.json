@@ -1,0 +1,30 @@
+{
+  "name": "@2003scape/rsc-news-archives",
+  "version": "1.0.0",
+  "description": "scrape and convert rsc wiki news updates to markdown files",
+  "main": "./bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2003scape/rsc-news/archives/"
+  },
+  "keywords": [
+    "runescape",
+    "classic",
+    "rsc",
+    "news",
+    "updates",
+    "jagex"
+  ],
+  "author": "2003Scape Team",
+  "license": "AGPL-3.0+",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.4",
+    "mdast-util-from-markdown": "^0.8.4",
+    "mdast-util-to-markdown": "^0.6.1",
+    "node-fetch": "^2.6.1",
+    "slug": "^4.0.2"
+  }
+}
