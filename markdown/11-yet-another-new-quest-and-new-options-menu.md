@@ -1,4 +1,4 @@
-# Yet another new quest, and new options menu
+# Yet another new quest\, and new options menu
 *Published Wednesday, February 28, 2001*
 
 Prince Ali of Al Kharid is being held captive by the Lady Keli. If you think you're up to a daring rescue mission then go to Al Kharid and talk to Chancellor Hassan. This is a long quest with many parts! Many thanks to Rab for the many hours he spent creating it, and to Paul for configuring it for use in the game.

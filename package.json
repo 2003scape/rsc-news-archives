@@ -1,7 +1,7 @@
 {
   "name": "@2003scape/rsc-news-archives",
   "version": "1.0.0",
-  "description": "scrape and convert rsc wiki news updates to markdown files",
+  "description": "archived news posts from jagex for runescape classic",
   "main": "./bin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
     "jagex"
   ],
   "author": "2003Scape Team",
-  "license": "AGPL-3.0+",
+  "license": "CC-BY-SA-4.0",
   "dependencies": {
     "cheerio": "^1.0.0-rc.4",
     "mdast-util-from-markdown": "^0.8.4",

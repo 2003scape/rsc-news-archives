@@ -227,7 +227,7 @@ class Page {
         this.formatSic();
         this.date = this.getDate();
         this.images = this.getImages();
-        this.category = this.getCategory();
+        this.getCategory();
         this.removeTitles();
         this.formatBreaks();
         this.formatLinks();
@@ -243,7 +243,8 @@ class Page {
 const markdownPages = [];
 
 // { id: { date, title } }
-const metaData = {};
+//const metaData = {};
+const dump = [];
 
 for (const fileName of wikiFiles) {
     const pageSource = fs.readFileSync(`${directory}/${fileName}`).toString();
@@ -279,10 +280,13 @@ markdownPages
         return 0;
     })
     .forEach((page, index) => {
-        metaData[index] = {
-            date: page.date,
-            title: page.name
-        };
+        dump.push({
+            id: index,
+            date: Math.floor(page.date / 1000),
+            title: page.name,
+            category: page.category,
+            body: page.markdownSource
+        });
 
         fs.writeFileSync(
             `${output}/${index}-${slug(page.name)}.md`,
@@ -292,7 +296,7 @@ markdownPages
         );
     });
 
-fs.writeFileSync('./metadata.json', JSON.stringify(metaData));
+fs.writeFileSync('./markdown-dump.json', JSON.stringify(dump));
 
 /*console.log(images);
 

@@ -9,7 +9,7 @@ Firstly a big thank-you to everyone who's been playing, and has helped make Rune
 ## Help keep RuneScape free
 
 Renting a server to run RuneScape is expensive! I really want to avoid charging people to play, so please please help me keep it free by visiting the website below and signing up for a few \* free\* offers. Thanks!
-Want to win Free Cash every day? Try the newest Freebie site on the Internet today, FreebieClub.com. Of course it's loaded with free loot: great vacations, magazines and samples galore! \[http://web.archive.org/web/20010306041108/http://www.freebieclub.com/FC_MyFreebies.asp?redir=quick\&a=26134]
+Want to win Free Cash every day? Try the newest Freebie site on the Internet today, FreebieClub.com. Of course it's loaded with free loot: great vacations, magazines and samples galore!
 
 ## What's new in Runescape
 

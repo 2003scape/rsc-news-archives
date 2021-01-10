@@ -1,7 +1,7 @@
 # RuneScape Classic Reminder
 *Published Wednesday, November 18, 2009*
 
-We’d like remind everyone who’s interested in trying out RuneScape Classic, but has not yet logged in since it was re-opened, that the opportunity to do so will only be available for one more week. Only those members that log into Classic (using their normal username and password) before the end of Tuesday 24th November will be able to continue playing it after this date.
+We'd like remind everyone who's interested in trying out RuneScape Classic, but has not yet logged in since it was re-opened, that the opportunity to do so will only be available for one more week. Only those members that log into Classic (using their normal username and password) before the end of Tuesday 24th November will be able to continue playing it after this date.
 
 You can access RuneScape Classic here.
 
