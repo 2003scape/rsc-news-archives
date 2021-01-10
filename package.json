@@ -2,13 +2,9 @@
   "name": "@2003scape/rsc-news-archives",
   "version": "1.0.0",
   "description": "archived news posts from jagex for runescape classic",
-  "main": "./bin.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/2003scape/rsc-news/archives/"
+    "url": "https://github.com/2003scape/rsc-news-archives/"
   },
   "keywords": [
     "runescape",
