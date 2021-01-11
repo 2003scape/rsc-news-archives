@@ -4,7 +4,7 @@
   "description": "archived news posts from jagex for runescape classic",
   "repository": {
     "type": "git",
-    "url": "https://github.com/2003scape/rsc-news-archives/"
+    "url": "git+https://github.com/2003scape/rsc-news-archives.git"
   },
   "keywords": [
     "runescape",
@@ -22,5 +22,10 @@
     "mdast-util-to-markdown": "^0.6.1",
     "node-fetch": "^2.6.1",
     "slug": "^4.0.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/2003scape/rsc-news-archives/issues"
+  },
+  "homepage": "https://github.com/2003scape/rsc-news-archives#readme",
+  "main": "news.json"
 }
